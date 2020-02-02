@@ -9,7 +9,7 @@
 - code completion
 - syntax highlighting 
 - a nice variety of theme
-##### Every computer will come with its own text editor , on MAC the text editor is "Text Edit" ,on Windows the text editor is "“Notepad"
+##### Every computer will come with its own text editor , on MAC the text editor is "Text Edit" ,on Windows the text editor is “Notepad"
 ##### These text editor don’t have many features to speak of , so we should download another text editor.
 
 #### Third-Party Options:
