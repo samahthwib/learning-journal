@@ -1,5 +1,7 @@
 # learning-journal
 
+#### My name is Samah Thweib and this is my summary to Markdown
+
 # Headings :
 ## The number of # determine the size of the heading like ### is the smallest than ## for example:
 
