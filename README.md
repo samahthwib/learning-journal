@@ -1,6 +1,19 @@
 # learning-journal
 
+
+
+### This is a list of links for the other pages:
+* Learning Markdown Summary : [CLICK](https://samahthwib.github.io/learning-journal/learning-markdown)
+
+* Text Editor Summary : [CLICK](https://samahthwib.github.io/learning-journal/update-editor)
+
+* Git-Summary : [CLICK](https://samahthwib.github.io/learning-journal/Git-summary)
+
+
 #### My name is Samah Thweib and this is my summary to Markdown
+
+
+
 
 # Headings :
 ## The number of # determine the size of the heading like ### is the smallest than ## for example:
