@@ -2,7 +2,7 @@
 
 
 
-## This is al list of content:
+## This is a list of content:
 - If you want enter to learning-markdown summary [click-here]( https://samahthwib.github.io/learning-journal/learning-markdown) 
 
 - If you want enter to text-editor summary [click-here]( https://samahthwib.github.io/learning-journal/update-editor) 
