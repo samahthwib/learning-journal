@@ -13,12 +13,12 @@
 
 
 #### color model
-1- **Hue** : Hue is near to the colloquial idea
-of color
-2- **Saturation** : refers to the amount
-of gray in a color.
-3- **Brightness** : refers
-to how much black is in a color
+1- **Hue** 
+#####  Hue is near to the colloquial idea of color
+2- **Saturation**
+##### is refers to the amount of gray in a color.
+3- **Brightness**  
+##### refers to how much black is in a color
 
 ### background-color 
 ###### sets the color of the background , every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want, you can use a color picker.
