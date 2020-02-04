@@ -1,5 +1,6 @@
 # learning-journal
 
+<<<<<<< HEAD
 
 
 ### This is a list of links for the other pages:
@@ -17,35 +18,15 @@
 
 # Headings :
 ## The number of # determine the size of the heading like ### is the smallest than ## for example:
+=======
 
-### Samah Thweib
-## Samah Thweib
+## My name is Samah Thweib and this is a list of pages that i created for now :
+>>>>>>> 0d33da6488c818b04f4ad01814045b20fd332e2e
 
+- If you want enter to learning-markdown summary [click-here]( https://samahthwib.github.io/learning-journal/learning-markdown) 
 
-# Styling Text :
-## The different style on text is available like bold, italic, Strikethrough.Every style have different command,for example:
+- If you want enter to text-editor summary [click-here]( https://samahthwib.github.io/learning-journal/update-editor) 
 
-Bold : **Samah Thweib**  Italic : *Samah Thweib*  Strikethrough : ~~Samah Thweib~~
+- If you want enter to Git-summary [click-here]( https://samahthwib.github.io/learning-journal/Git-summary) 
 
-# Lists :
-## We have different type of list like:oredered, unordered, nested. For example:
-
-### Unordered List:
-- one
-- two
-- three
-
-
-### Ordered List :
-1- one
-2- two
-3- three
-
-# Using emoji :
-## I can add emoji also by typing EMOJICODE
-:bowtie:
-
- 
-# Mentioning people and teams :
-## I can mention any one on Github by typing @ then typing their name for example :
-@github
+Thank You
